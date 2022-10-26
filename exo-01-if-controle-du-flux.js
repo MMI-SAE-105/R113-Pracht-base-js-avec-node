@@ -23,3 +23,27 @@ if (a === 1) {
  * Testez si ("0" === 0) est vrai ou faux
  * // === est un opérateur de comparaison stricte
  */
+
+/**
+ * Testez si ({} == {}) est vrai ou faux
+ */
+
+/**
+ * Testez si ([] == []) est vrai ou faux
+ */
+
+/**
+ * Affectez un tableau vide à une variable
+ * Testez si la variable est égale à un tableau vide
+ */
+
+// Déclaration de la variable
+const b = [];
+
+/**
+ * Affectez un tableau vide à une variable
+ * Affectez cette même variable à une autre variable
+ * Testez si les deux variables sont égales
+ */
+
+// Déclaration des variables
