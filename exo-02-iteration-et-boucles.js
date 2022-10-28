@@ -42,11 +42,6 @@ for (let i = 1; i <= 10; i++) {
  */
 
 /**
- * Faite une boucle while qui affiche les nombres de 1 à 10
- * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/while
- */
-
-/**
  * Faite une boucle do...while qui affiche les nombres de 1 à 10
  * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/do...while
  */
