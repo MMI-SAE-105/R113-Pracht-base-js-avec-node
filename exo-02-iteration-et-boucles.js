@@ -42,18 +42,6 @@ for (let i = 1; i <= 10; i++) {
  */
 
 /**
- * Faite une boucle qui affiche les nombres de 1 à 10
- * Mais si le nombre est égal à 5, passez à l'itération suivante
- */
-
-/**
- * Faite une boucle qui affiche les nombres de 1 à 10
- * Mais si le nombre est égal à 5, passez à l'itération suivante
- * Mais si le nombre est égal à 8, arrêtez la
- * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/for...in
- */
-
-/**
  * Faite une boucle while qui affiche les nombres de 1 à 10
  * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/while
  */
